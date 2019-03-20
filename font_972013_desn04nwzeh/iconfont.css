@@ -1,0 +1,21 @@
+
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1545121786692'); /* IE9*/
+  src: url('iconfont.eot?t=1545121786692#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff;charset=utf-8;base64,d09GRgABAAAAAASgAAsAAAAABvgAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAABHU1VCAAABCAAAADMAAABCsP6z7U9TLzIAAAE8AAAARAAAAFY8w0hTY21hcAAAAYAAAABWAAABhmZo0WdnbHlmAAAB2AAAAMgAAADQjVTE3WhlYWQAAAKgAAAALwAAADYTnOXyaGhlYQAAAtAAAAAcAAAAJAfeA4RobXR4AAAC7AAAAAwAAAAMDAAAAGxvY2EAAAL4AAAACAAAAAgAHgBobWF4cAAAAwAAAAAfAAAAIAERADpuYW1lAAADIAAAAUUAAAJtPlT+fXBvc3QAAARoAAAANwAAAEiFDc8DeJxjYGRgYOBikGPQYWB0cfMJYeBgYGGAAJAMY05meiJQDMoDyrGAaQ4gZoOIAgCKIwNPAHicY2BkYWCcwMDKwMHUyXSGgYGhH0IzvmYwYuRgYGBiYGVmwAoC0lxTGBye+T5LZG7438AQw9zA0AAUZgTJAQDqqQyReJztkLENgDAMBO+TkAIxCAWr0FMhZfmsEWwHtuCl89vvpDGwANk4jAK6Ea7LUkWeWSMv8aaai9TP3saAz02yXTVP/k+VX1vU/Z2SX2sSfZugB0T2D/4AAHicY2BhAAJme6bNDMwM7AzcDDwMDIyKomAoDMSmTAv+qTDeAeF5f9uYqhhnGLzRZ0rT1wdpY2Jg+P+KeTqzOIMEgy5Qn5G4mLgcExs/Ex+jspK6HpOJuR2TuRIbO5uAuByjsZGZubi5uhmTuh4j4yV7Sxs9HQNmTS1uPp1cGyAvxkBcMqbU3q3ZLDPTrNnNsdpkh8yOePZUs2amd+KSejoFNYV6fNwaWiBVdSDlGqYm+f8e5Jma6ukBVeYzimabmDIwAAAktC1ieJxjYGRgYADiw9ozNsTz23xl4GZhAIEbdhd+Iej/r1gYmMWBXA4GJpAoAFD0C7gAeJxjYGRgYG7438AQw8IAAkCSkQEVMAMARwkCbAQAAAAEAAAABAAAAAAAAAAAHgBoeJxjYGRgYGBm0GNgYQABJiDmAkIGhv9gPgMADXUBTAB4nGWPTU7DMBCFX/oHpBKqqGCH5AViASj9EatuWFRq911036ZOmyqJI8et1ANwHo7ACTgC3IA78EgnmzaWx9+8eWNPANzgBx6O3y33kT1cMjtyDRe4F65TfxBukF+Em2jjVbhF/U3YxzOmwm10YXmD17hi9oR3YQ8dfAjXcI1P4Tr1L+EG+Vu4iTv8CrfQ8erCPuZeV7iNRy/2x1YvnF6p5UHFockikzm/gple75KFrdLqnGtbxCZTg6BfSVOdaVvdU+zXQ+ciFVmTqgmrOkmMyq3Z6tAFG+fyUa8XiR6EJuVYY/62xgKOcQWFJQ6MMUIYZIjK6Og7VWb0r7FDwl57Vj3N53RbFNT/c4UBAvTPXFO6stJ5Ok+BPV8bUnV0K27LnpQ0kV7NSRKyQl7WtlRC6gE2ZVeOEXpc0Yk/KGdI/wAJWm7IAAAAeJxjYGKAAC4G7ICZkYmRmZGFQSg5IzE7Ma8kM7UqMz01Lz2lNJ8zNzE9LzMtM7WIgQEAwTQLXQA=') format('woff'),
+  url('iconfont.ttf?t=1545121786692') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('iconfont.svg?t=1545121786692#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family:"iconfont" !important;
+  font-size:16px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-chakantiezigengduo:before { content: "\e661"; }
+
+.icon-magnifier:before { content: "\e64d"; }
+

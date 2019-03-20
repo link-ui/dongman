@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>index</title>
+    <link rel="stylesheet" href="css/iconfont.css"/>
+    <link rel="stylesheet" href="css/index.css"/>
+</head>
+<body>
+    <header>
+        <a href="#"><img src="img/logo.jpg" alt=""/></a>
+        <div class="font">
+            <a href="#"><i class="iconfont icon-magnifier"></i></a>
+            <a href="#"><i class="iconfont icon-chakantiezigengduo"></i></a>
+        </div>
+    </header>
+    <div class="box" style="width:100%;">
+
+    </div>
+    <nav>
+     <a href="#"><img src="img/n1.jpg" alt=""/><span>分类</span></a>
+     <a href="#"><img src="img/n2.jpg" alt=""/><span>排行</span></a>
+     <a href="#"><img src="img/n3.jpg" alt=""/><span>追更</span></a>
+     <a href="#"><img src="img/n4.jpg" alt=""/><span>历史</span></a>
+    </nav>
+    <section>
+        <div class="topSec">
+            <div class="mg">
+                <img src="img/s1.jpg" alt=""/>
+                <img src="img/s2.jpg" alt=""/>
+            </div>
+            <div class="more">&nbsp; &nbsp; &nbsp; 更多</div>
+        </div>
+        <div class="content">
+                <div class="part1">
+                    <img src="img/p1.jpg" alt=""/>
+                    <h5>豪门天价前妻</h5>
+                    <p>豪门之妻不好当</p>
+            </div>
+            <div class="part1">
+                    <img src="img/p2.jpg" alt=""/>
+                    <h5>豪门天价前妻</h5>
+                    <p>豪门之妻不好当</p>
+            </div>
+            <div class="part1">
+                    <img src="img/p3.jpg" alt=""/>
+                    <h5>豪门天价前妻</h5>
+                    <p>豪门之妻不好当</p>
+            </div>
+            <div class="part1">
+                    <img src="img/p1.jpg" alt=""/>
+                    <h5>豪门天价前妻</h5>
+                    <p>豪门之妻不好当</p>
+            </div>
+            <div class="part1">
+                    <img src="img/p1.jpg" alt=""/>
+                    <h5>豪门天价前妻</h5>
+                    <p>豪门之妻不好当</p>
+            </div>
+            <div class="part1">
+                    <img src="img/p1.jpg" alt=""/>
+                    <h5>豪门天价前妻</h5>
+                    <p>豪门之妻不好当</p>
+            </div>
+        </div>
+        
+    </section>
+</body>
+</html>
+
+<script type="text/javascript" src="js/jquery-1.8.3.js"></script>
+<script type="text/javascript" src="js/sliderjQuery.js" ></script>
+<script type="text/javascript">
+
+window.onload = function(){
+	//1、流程
+	let s1 = new Slider({
+		$box:$(".box"),
+		width:375,
+		height:218,
+		imgs:["img/0.jpg","img/1.jpg","img/2.jpg","img/3.jpg","img/4.jpg"],
+		btnColor:"white",
+		btnHighColor:'#ff8f56',
+		btnSize:5,
+		isCircle:true,
+		timeSpace:3000
+    });
+}
+</script>
